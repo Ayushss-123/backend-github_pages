@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/backend-github_pages/static/css/main.e840ab53.css",
+    "main.js": "/backend-github_pages/static/js/main.d288168c.js",
+    "index.html": "/backend-github_pages/index.html",
+    "main.e840ab53.css.map": "/backend-github_pages/static/css/main.e840ab53.css.map",
+    "main.d288168c.js.map": "/backend-github_pages/static/js/main.d288168c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e840ab53.css",
+    "static/js/main.d288168c.js"
+  ]
+}
